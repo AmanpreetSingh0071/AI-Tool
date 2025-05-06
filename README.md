@@ -2,7 +2,7 @@
 
 A curated directory of AI tools, platforms, courses, and research — created by [Amanpreet Singh](https://www.linkedin.com/in/aman-m-singh/).
 
-🔗 **Live site:** [Visit here](https://<your-username>.github.io/ai-resources-site/)
+🔗 **Live site:** [Visit here](https://amanpreetsingh0071.github.io/AI-Tool/)
 
 ## Sections Included
 - Prompt Engineering
